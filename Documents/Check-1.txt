@@ -1,1 +1,0 @@
-Today, pages that end in either HTM or HTML are completely acceptable. Just make sure for consistency sake you use one or the other, not both, throughout your website.
